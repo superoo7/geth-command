@@ -21,3 +21,9 @@ All the script written in shell. (To use on windows change .sh to .bat)
 ## script/js directory
 
 store all the necessary JS file to run on geth.
+
+
+
+# License
+
+MIT

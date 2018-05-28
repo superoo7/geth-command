@@ -1,0 +1,12 @@
+{
+  "window.zoomLevel": 0,
+  "prettier.printWidth": 100,
+  "prettier.semi": false,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "editor.formatOnSave": true,
+  "licenser.author": "Lai Weng Han",
+  "licenser.license": "MIT"
+}
